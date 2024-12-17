@@ -1,0 +1,446 @@
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ cd /
+administrator@administrator-Lenovo-V130-14IKB:/$ cd home
+administrator@administrator-Lenovo-V130-14IKB:/home$ cd administrator
+administrator@administrator-Lenovo-V130-14IKB:~$ cd project
+administrator@administrator-Lenovo-V130-14IKB:~/project$ cd ecommerce_app
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ touch confing.txt
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ ls -l
+total 56
+-rw-rw-r-- 1 administrator administrator    0 Dec 16 12:43  1.txt
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:32  april
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:36  august
+-rw-rw-r-- 1 administrator administrator    0 Dec 17 10:53  confing.txt
+-rw-rw-r-- 1 administrator administrator    0 Dec 16 12:43  day
+-rw-rw-r-- 1 administrator administrator    0 Dec 16 12:43  day1.txt
+drwxrwxr-x 4 administrator administrator 4096 Dec 16 14:40  december
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:31  february
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 11:05  febuary
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:28  january
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:34  july
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:34  june
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 12:29 'logs backup'
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:32  march
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:33  may
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 11:17  november
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:39  october
+drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:38  september
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ rm -r day
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ nano script.sh
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ 
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ ./script.sh
+bash: ./script.sh: Permission denied
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ chmod +x script.sh
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ ./script.sh
+sivashankaran
+
+seventeen
+administrator@administrator-Lenovo-V130-14IKB:~/project/ecommerce_app$ cd /
+administrator@administrator-Lenovo-V130-14IKB:/$ mkdir hustory
+mkdir: cannot create directory ‘hustory’: Permission denied
+administrator@administrator-Lenovo-V130-14IKB:/$ mkdir history
+mkdir: cannot create directory ‘history’: Permission denied
+administrator@administrator-Lenovo-V130-14IKB:/$ cd home
+administrator@administrator-Lenovo-V130-14IKB:/home$ cd administrator
+administrator@administrator-Lenovo-V130-14IKB:~$ mkdir history
+administrator@administrator-Lenovo-V130-14IKB:~$ cd history
+administrator@administrator-Lenovo-V130-14IKB:~/history$ touch history.txt
+administrator@administrator-Lenovo-V130-14IKB:~/history$ history
+    1  vim
+    2  sudo apt install vim
+    3  sudo apt install vim
+    4  touch test.txt
+    5  ls
+    6  vim test.txt
+    7  vim
+    8  vim
+    9  vim
+   10  vim file1.txt
+   11  vim file1.txt
+   12  vim
+   13  vim file1.txt
+   14  vim file1.txt
+   15  nano file1.txt
+   16  cd /
+   17  cd home
+   18  cd administrator
+   19  mkdir cloud
+   20  cd cloud
+   21  cat
+   22  cat file.txt
+   23  I am an actor
+   24  cat file.txt|wc-1
+   25  \clear
+   26  clear
+   27  cd Desktop
+   28  cd /
+   29  cd Desktop
+   30  cd home
+   31  cd administrator
+   32  cd Desktop
+   33  mkdir cloud
+   34  cd cloud
+   35  touch file.txt
+   36  cat file.txt
+   37  cat > file.txt
+   38  cat file.txt
+   39  grep "are" file.txt
+   40  grep "are" file.txt|wc -l
+   41  grep "mode" file.txt
+   42  grep "mode" file.txt|wc -l
+   43  clear
+   44  cd /
+   45  dc Desktop
+   46  cd Desktop
+   47  cd home
+   48  cd administrator
+   49  cd Desktop
+   50  cat /etc/passwd
+   51  ls -l
+   52  ls -l
+   53  clear
+   54  clear
+   55  ls
+   56  cd /
+   57  ls
+   58  clear
+   59  cd /
+   60  cd home
+   61  cd Desktop
+   62  CD administrator
+   63  Cd administrator
+   64  cd Desktop
+   65  cd administrator
+   66  cd Desktop
+   67  sudo useradd siva
+   68  su siva
+   69  su siva\
+   70  cat /etc/passwd
+   71  sudo useradd siva1
+   72  su siva1
+   73  clear
+   74  password siva
+   75  sudo password siva
+   76  password siva
+   77  sudo useradd -m siva2
+   78  su siva2
+   79  cd /  
+   80  sudo useradd siva
+   81  clear
+   82  cd /
+   83  su siva
+   84  sudo passwd siva
+   85  touch file1.txt
+   86  cd /
+   87  cd Desktop
+   88  cd /
+   89  cd home
+   90  cd administrator
+   91  cd Desktop
+   92  touch file1.txt
+   93  su siva
+   94  ls
+   95  cd Desktop
+   96  ls
+   97  rm -r cloud
+   98  cat file1.txt
+   99  cat > file1.txt
+  100  cat file1.txt
+  101  ll file1.txt
+  102  ls -l file.txt
+  103  ls -l file`.txt
+  104  ls -l file1.txt
+  105  su siva
+  106  sudo userdel
+  107  cd /
+  108  cd home
+  109  dc Desktop
+  110  cd administrator
+  111  cd Desktop
+  112  sudo userdel
+  113  sudo userdel siva
+  114  cd /
+  115  top
+  116  cd /
+  117  cd home
+  118  cd administrator
+  119  cd Desktop
+  120  sudo userdel
+  121  cat /etc/passwd
+  122  sudo userdel siva
+  123  sudo userdel siva1
+  124  sudo userdel siva
+  125  2
+  126  sudo userdel siva2
+  127  cat /etc/passwd
+  128  clear
+  129  cd /
+  130  cd administrator
+  131  cd Desktop
+  132  cd home
+  133  cd Desktop
+  134  cd administrator
+  135  cd Desktop
+  136  touch file.txt
+  137  cat > file.txt
+  138  ls
+  139  nano
+  140  ls
+  141  ./test.sh
+  142  chmod 777 test.sh
+  143  ./test.sh
+  144  ls
+  145  nano script.sh
+  146  chmod +x script.sh
+  147  ./script.sh
+  148  ls
+  149  nano script.sh
+  150  chmod +x script.sh
+  151  ./script.sh
+  152  ls
+  153  nano script.sh
+  154  chmod -x script.sh
+  155  ./scrip.sh
+  156  chmod -x script.sh
+  157  ./scrip.sh
+  158  nano script.sh
+  159  ./scrip.sh
+  160  chmod -x script.sh
+  161  ./scrip.sh
+  162  ls
+  163  nano script.sh
+  164  ./scrip.sh
+  165  chmod -x script.sh
+  166  ./scrip.sh
+  167  nano script.sh
+  168  chmod +x script.sh
+  169  ./scrip.sh
+  170  chmod +x script.sh
+  171  ./script.sh
+  172  nano script.sh
+  173  nano script.sh
+  174  ./script.sh
+  175  nano script.sh
+  176  ./script.sh
+  177  ls
+  178  nano script.sh
+  179  nano script.sh
+  180  chmod +x script.sh
+  181  ./script.sh
+  182  nano script.sh
+  183  ./script.sh
+  184  nano script.sh
+  185  ./script.sh
+  186  nano script.sh
+  187  ./script.sh
+  188  nano script.sh
+  189  nano script.sh
+  190   script.sh
+  191  chmod +x script.sh
+  192   script.sh
+  193  clear
+  194  cd /
+  195  dit
+  196  git
+  197  sudo apt update
+  198  sudo apt install git
+  199  git --version
+  200  cd /mnt/d
+  201  cd/mnt/d
+  202  cd
+  203  clear
+  204  cd /
+  205  ls
+  206  cd home
+  207  cd administrator
+  208  cd dDesktop
+  209  cd Desktop
+  210  git --version
+  211  cd cloud
+  212  cd ..
+  213  cd cloud
+  214  cd cloud
+  215  cd ..
+  216  cd cloud
+  217  ls
+  218  ls
+  219  cd ..
+  220  cd cloud
+  221  clear
+  222  cloud ls
+  223  clear
+  224  cloud ls
+  225  clear
+  226  cd ..
+  227  cd cloud
+  228  mkdir cloud.txt
+  229  cd home 
+  230  cd administrator
+  231  cd mkdir cloud.txt
+  232  ls
+  233  cd Desktop
+  234  ls
+  235  mkdir cloud
+  236  cd cloud
+  237  git init
+  238  git config --global user.name "siva"
+  239  git config --global user.email "sivashankaran4678@gmail.com"
+  240  git config --global init.defaultBranch main
+  241  git config --global core.eol lf
+  242  git config --global core.autocrlf input
+  243  git config --list
+  244  git config --global core.autocrlf input
+  245  git config --list
+  246  git config --global core.autocrlf input
+  247  cd /
+  248  cd homr
+  249  cd home
+  250  cd administrator
+  251  cd cloud
+  252  cd cloud
+  253  cd Desktop
+  254  cd cloud
+  255  cd /
+  256  cd home
+  257  cd administrator
+  258  cd Desktop
+  259  cd cloud
+  260  git config --list
+  261  https://github.com/sivashankaran46/rossi.git
+  262  rm *
+  263  git clone https://github.com/sivashankaran46/rossi.git
+  264  ls
+  265  rossi#
+  266  rossi
+  267  cd rossi
+  268  touch file.txt
+  269  ls
+  270  git add file.txt
+  271  cat > file.txt
+  272  cat > file.txt
+  273  git commit -m "first number"
+  274  git status
+  275  git add file.txt
+  276  git status
+  277  git commit -m "second commit"
+  278  git status
+  279  git push origin main
+  280  git remove -v
+  281  git remote -v
+  282  git remote set-url origin "https://hub_pat_11BNVVJgitFY01wQk0Qh03vPN_771eiGScP98LKvNIzJMl62YeMZUqk0JZ5R7uQT8qOAnKZRVHHQ6lVLUSloE"
+  283  git status
+  284  git push origin main
+  285  git remote -v
+  286  hub_pat_11BNVVJgitFY01wQk0Qh03vPN_771eiGScP98LKvNIzJMl62YeMZUqk0JZ5R7uQT8qOAnKZRVHHQ6lVLUSloE@github.com/sivashankaran46/rossi"
+  287  git remote set-url origin "https://hub_pat_11BNVVJgitFY01wQk0Qh03vPN_771eiGScP98LKvNIzJMl62YeMZUqk0JZ5R7uQT8qOAnKZRVHHQ6lVLUSloE@github.com/sivashankaran46/rossi"
+  288  git push origin main
+  289  clea
+  290  clear
+  291  cd /
+  292  cd /
+  293  ls
+  294  cd home
+  295  cd administrator
+  296  cd Desktop
+  297  mkdir git
+  298  cd git
+  299  git config --list
+  300  git config --global
+  301  touch file.txt
+  302  cat > file.txt
+  303  hub_pat_11BNVVJgitFY01wQk0Qh03vPN_771eiGScP98LKvNIzJMl62YeMZUqk0JZ5R7uQT8qOAnKZRVHHQ6lVLUSloE@github.com/sivashankaran46/rossi.git
+  304  clear
+  305  cd /
+  306  cd home
+  307  cd administrator
+  308  cd Desktop
+  309  ls
+  310  cd git
+  311  git config --list
+  312  git config --globle
+  313  git clone "https://ghp_hub_pat_11B2YeMZUqk0JZ5R7uQT8qOAnKZRVHHQ6lVLUSloEhttps://github.com/sivashankaran46/siva.git"
+  314  git clone "https://ghp_hub_pat_11B2YeMZUqk0JZ5R7uQT8qOAnKZRVHHQ6lVLUSloE@github.com/sivashankaran/siva.git"
+  315  clear
+  316  cd /
+  317  cd home
+  318  cd administrator
+  319  cd Desktop
+  320  ls
+  321  mkdir git
+  322  git
+  323  clear
+  324  cd /
+  325  cd home
+  326  cd administrator
+  327  cd Desktop
+  328  git
+  329  clear
+  330  cd /
+  331  cd home
+  332  cd administartor
+  333  cd Desktop
+  334  cd Desktop
+  335  cd administartor
+  336  clear
+  337  cd /
+  338  cd home
+  339  cd administrator
+  340  cd Desktop
+  341  cd /
+  342  cd home
+  343  cd administrator
+  344  cd Desktop
+  345  mkdir cloud.txt
+  346  cd cloud
+  347  history
+  348  clear
+  349  cd /
+  350  cd home
+  351  cd administrator
+  352  cd Desktop
+  353  git
+  354  cd git
+  355  clear
+  356  cd /
+  357  history
+  358  cd /
+  359  cd home
+  360  cd administrator
+  361  cd Desktop
+  362  cd ecommerce
+  363  mkdir ecommerce
+  364  cd /
+  365  mkdir ecommerce
+  366  cd mkdir ecommerce app
+  367  mkdir ecommerce_app
+  368  cd ecommerce_app
+  369  cd project
+  370  clear
+  371  cd /
+  372  cd home
+  373  cd administrator
+  374  cd project
+  375  cd ecommerce
+  376  cd ecommerce_app
+  377  clear
+  378  cd /
+  379  cd home
+  380  cd administrator
+  381  cd project
+  382  cd ecommerce_app
+  383  touch confing.txt
+  384  ls -l
+  385  rm -r day
+  386  nano script.sh
+  387  ./script.sh
+  388  chmod +x script.sh
+  389  ./script.sh
+  390* cd /or
+  391* mkdir hustoryat
+  392  mkdir history
+  393* cd homet
+  394  cd administrator
+  395  mkdir history
+  396  cd history
+  397  touch history.txt
+  398  history
+
